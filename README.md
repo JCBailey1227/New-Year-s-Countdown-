@@ -1,2 +1,2 @@
-# New-Years-Countdown-
+# New-Years-Countdown
 A countdown timer for New Years 
